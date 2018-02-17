@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimenTextPlayers">14sp</dimen>
+    <dimen name="dimenTextScores">56sp</dimen>
+    <dimen name="dimenSpacingSmall">8dp</dimen>
+    <dimen name="dimenSpacingMedium">16dp</dimen>
+    <dimen name="dimenSpacingBig">24dp</dimen>
+    <dimen name="dimenSpacingVeryBig">32dp</dimen>
+    <dimen name="dimenSpacingHuge">64dp</dimen>
+</resources>

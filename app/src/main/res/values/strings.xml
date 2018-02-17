@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Cheesy Winter Contest</string>
+    <string name="contentDescriptionBackground">This is the most yummy cheese image on earth</string>
+    <string name="textPlayer1Name">Player 1</string>
+    <string name="textPlayer2Name">Player 2</string>
+    <string name="initScore">0</string>
+    <string name="buttonAddThreePoints">Fondue \n(+ 3 points)</string>
+    <string name="buttonAddTwoPoints">Raclette \n(+2 points)</string>
+    <string name="buttonAddOnePoint">Tartiflette \n(+1 point)</string>
+    <string name="textVerdictTitle">Total cheese eaten</string>
+    <string name="textVerdict">0g</string>
+    <string name="textVerdictComment1">Let\'s make this number go up!</string>
+    <string name="textVerdictComment2">Sweet Cheesus!</string>
+    <string name="textVerdictComment3">No cheese? Well that\'s a sad winter :(</string>
+    <string name="buttonReset">Play again</string>
+    <string name="unit">g</string>
+</resources>

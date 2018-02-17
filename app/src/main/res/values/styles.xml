@@ -1,0 +1,111 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <!-- Primary theme color of the app (sets background color of app bar) -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <!-- Background color of buttons in the app -->
+        <item name="colorButtonNormal">@color/colorButtonLight</item>
+        <!-- Translucent status and navigation bar -->
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+
+    <!-- ScrollView -->
+    <style name="ScrollView" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:fillViewport">true</item>
+    </style>
+
+    <!-- Image background -->
+    <style name="Background" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:fillViewport">true</item>
+        <item name="android:scaleType">centerCrop</item>
+        <item name="android:tint">#6F000000</item>
+
+    </style>
+
+    <!-- Player names -->
+    <style name="Name" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:layout_marginTop">@dimen/dimenSpacingMedium</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:textSize">@dimen/dimenTextPlayers</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <!-- Player scores -->
+    <style name="Score" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:layout_marginBottom">@dimen/dimenSpacingBig</item>
+        <item name="android:layout_marginTop">@dimen/dimenSpacingMedium</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:textSize">@dimen/dimenTextScores</item>
+    </style>
+
+    <!-- Score buttons -->
+    <style name="ButtonScore" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:layout_marginBottom">@dimen/dimenSpacingSmall</item>
+        <item name="android:layout_marginLeft">@dimen/dimenSpacingBig</item>
+        <item name="android:layout_marginRight">@dimen/dimenSpacingBig</item>
+        <item name="android:paddingBottom">@dimen/dimenSpacingMedium</item>
+        <item name="android:paddingTop">@dimen/dimenSpacingMedium</item>
+        <item name="android:textColor">@color/colorButtonDark</item>
+    </style>
+
+    <!-- Line -->
+    <style name="Line" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:layout_width">1dp</item>
+        <item name="android:layout_marginTop">@dimen/dimenSpacingMedium</item>
+        <item name="android:background">@color/colorAccent</item>
+    </style>
+
+    <!-- Verdict title -->
+    <style name="VerdictTitle" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:layout_marginTop">@dimen/dimenSpacingVeryBig</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">@color/colorAccent</item>
+    </style>
+
+    <!-- Verdict value -->
+    <style name="VerdictValue" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:layout_marginBottom">@dimen/dimenSpacingBig</item>
+        <item name="android:layout_marginTop">@dimen/dimenSpacingMedium</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:textSize">@dimen/dimenTextScores</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Verdict comment-->
+    <style name="VerdictComment" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:gravity">center</item>
+        <item name="android:text">@string/textVerdictComment1</item>
+        <item name="android:textColor">@color/colorAccent</item>
+    </style>
+
+    <!-- Reset button -->
+    <style name="ButtonReset" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_marginBottom">@dimen/dimenSpacingMedium</item>
+        <item name="android:layout_marginLeft">@dimen/dimenSpacingHuge</item>
+        <item name="android:layout_marginRight">@dimen/dimenSpacingHuge</item>
+        <item name="android:layout_marginTop">@dimen/dimenSpacingMedium</item>
+        <item name="android:backgroundTint">#451305</item>
+        <item name="android:paddingBottom">@dimen/dimenSpacingBig</item>
+        <item name="android:paddingTop">@dimen/dimenSpacingBig</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+
+</resources>
