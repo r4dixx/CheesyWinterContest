@@ -1,1 +1,1 @@
-<div align="center"><img src="https://raw.githubusercontent.com/r4dixx/CheesyWinterContest/master/Demo/ezgif-5-c5b66e464b.gif"></img><br/><br/><img src="https://raw.githubusercontent.com/r4dixx/CheesyWinterContest/master/app/src/main/res/mipmap-xhdpi/ic_launcher.png"></img></div>
+<div align="center"><img src="Demo/ezgif-5-c5b66e464b.gif"></img><br/><br/><img src="app/src/main/res/mipmap-xhdpi/ic_launcher.png"></img></div>
