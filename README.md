@@ -3,9 +3,9 @@
 <p align="center"><strong>Winner is the one that ate the most cheese</strong>
 <br>Yes, I'm very French 🇫🇷🧀</p>
 <br/>
-<div align="center"><img src="demo/ezgif-5-c5b66e464b.gif"></img></div>
+<div align="center"><img src="Demo/ezgif-5-c5b66e464b.gif"></img></div>
 <h2>About</h2>
-Third of four student projects made in 2017-2018 as part of <a href="https://eu.udacity.com/course/android-basics-nanodegree-by-google--nd803" target="_blank">Udacity's Android Basics Nanodegree</a>.
+Third of eight student projects made in 2017-2018 as part of <a href="https://eu.udacity.com/course/android-basics-nanodegree-by-google--nd803" target="_blank">Udacity's Android Basics Nanodegree</a>.
 
 <h3>☑️ Phase 1 - (Nov. - Feb.):</h3>
 
@@ -14,9 +14,13 @@ Third of four student projects made in 2017-2018 as part of <a href="https://eu.
 3. <a href="https://github.com/r4dixx/CheesyWinterContest" target="_blank"><strong>Cheesy Winter Contest</strong></a>
 4. <a href="https://github.com/r4dixx/m32O" target="_blank">m32O</a>
 
-<h3>⏳ Phase 2 - (Feb. - Aug.):</h3>
+<h3>☑️ Phase 2 - (Feb. - Jul.):</h3>
 
-*In progress*
+ 1. <a href="https://github.com/r4dixx/RookiePlayer">Rookie Player</a>
+2. <a href="https://github.com/r4dixx/VisitCalgary">Visit Calgary</a>
+3. <a href="https://github.com/r4dixx/TheGuardianView">The Guardian View</a>
+4. <a href="https://github.com/r4dixx/Flourish-And-Blotts-Book-Registry">Flourish & Blotts - Book Registry</a>
+
 <h2>Goal and requirements</h2>
 
 Make an app allowing users to track the score of two different teams playing a game of your choice. 
