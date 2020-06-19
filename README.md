@@ -47,11 +47,10 @@ Project has been improved at the end of Phase 1 given the new learnings acquired
 Or use <a href="https://github.com/cesarferreira/dryrun" target="_blank">`dryrun`</a> by <a href="https://github.com/cesarferreira" target="_blank">@CesarFerreira</a>
 
 <h2>Contributing</h2>
-
-This project is open to code improvements.
+Closed.
 
 <h2>Project status</h2>
-Open to code improvements only. Closed for anything else.
+Closed.
 
 <h2>Credits</h2>
 
